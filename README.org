@@ -1,0 +1,9 @@
+* bitcoin-rpc
+
+A complete bitcoin rpc client.
+
+|---------+---------------------------------------------------|
+| source  | git:https://codeberg.org/kilianmh/bitcoin-rpc.git |
+| commit  | bcb5dc0                                           |
+| systems | bitcoin-rpc                                       |
+|---------+---------------------------------------------------|
