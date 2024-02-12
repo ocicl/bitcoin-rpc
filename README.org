@@ -4,6 +4,6 @@ A complete bitcoin rpc client.
 
 |---------+---------------------------------------------------|
 | source  | git:https://codeberg.org/kilianmh/bitcoin-rpc.git |
-| commit  | 781cd82                                           |
+| commit  | 8f5b930                                           |
 | systems | bitcoin-rpc                                       |
 |---------+---------------------------------------------------|
