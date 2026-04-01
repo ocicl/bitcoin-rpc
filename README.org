@@ -7,3 +7,4 @@ A complete bitcoin rpc client.
 | commit  | cb1a1c7                                           |
 | systems | bitcoin-rpc                                       |
 |---------+---------------------------------------------------|
+ 
